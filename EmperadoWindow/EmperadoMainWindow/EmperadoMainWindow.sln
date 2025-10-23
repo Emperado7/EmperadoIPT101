@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmperadoMainWindow", "EmperadoMainWindow.csproj", "{1C08B5D9-9711-459C-BE0F-F377E2D99F6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C08B5D9-9711-459C-BE0F-F377E2D99F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C08B5D9-9711-459C-BE0F-F377E2D99F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C08B5D9-9711-459C-BE0F-F377E2D99F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C08B5D9-9711-459C-BE0F-F377E2D99F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB4DCED7-E42F-47C5-AE55-A68DC7AFDDD5}
+	EndGlobalSection
+EndGlobal
