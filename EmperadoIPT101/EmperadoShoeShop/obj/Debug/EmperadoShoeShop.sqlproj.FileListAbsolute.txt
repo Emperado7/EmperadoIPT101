@@ -1,0 +1,6 @@
+C:\EmperadoIPT101DB\EmperadoIPT101\EmperadoShoeShop\bin\Debug\EmperadoShoeShop.dacpac
+C:\EmperadoIPT101DB\EmperadoIPT101\EmperadoShoeShop\obj\Debug\EmperadoShoeShop.sqlproj.AssemblyReference.cache
+C:\EmperadoIPT101DB\EmperadoIPT101\EmperadoShoeShop\obj\Debug\EmperadoShoeShop.dll
+C:\EmperadoIPT101DB\EmperadoIPT101\EmperadoShoeShop\obj\Debug\EmperadoShoeShop.pdb
+C:\EmperadoIPT101DB\EmperadoIPT101\EmperadoShoeShop\bin\Debug\EmperadoShoeShop.dll
+C:\EmperadoIPT101DB\EmperadoIPT101\EmperadoShoeShop\bin\Debug\EmperadoShoeShop.pdb
